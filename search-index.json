@@ -2,7 +2,7 @@
   {
     "id": "cmp001",
     "type": "component",
-    "title": "Loader",
+    "title": "Adaptive Image From URL with Fallback",
     "description": "",
     "tags": ["loader", "component", "framer"],
     "url": "/products/loader",
