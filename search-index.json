@@ -1,6 +1,6 @@
 [
   {
-    "id": "prod-loader",
+    "id": "cmp001",
     "type": "component",
     "title": "Loader",
     "description": "Powerful and customizable Loader Framer component. Customize colors, line width and transition to make it your own and elevate your no-code website.",
@@ -11,7 +11,7 @@
     "price": "Free"
   },
   {
-    "id": "prod-pro-display",
+    "id": "cmp002",
     "type": "component",
     "title": "Pro Display",
     "description": "Present your image, video or iframe content in a stunning way. Adjust screen glow and choose between light and dark stand options to elevate your no-code website.",
@@ -22,7 +22,7 @@
     "price": "from $129"
   },
   {
-    "id": "prod-grid-loader",
+    "id": "cmp003",
     "type": "component",
     "title": "Grid Loader",
     "description": "Animated character grid with staggered looping effects. Create unique typographic loader animations or build dynamic visual patterns that elevate your no-code website.",
@@ -33,7 +33,7 @@
     "price": "from $149"
   },
   {
-    "id": "prod-theme-toggle",
+    "id": "cmp004",
     "type": "component",
     "title": "Theme Toggle",
     "description": "Allow your users to switch between dark and light styles. Use the included utility component to show different layers depending on the active color scheme.",
@@ -44,7 +44,7 @@
     "price": "from $79"
   },
   {
-    "id": "prod-nolan-barret",
+    "id": "tmp002",
     "type": "template",
     "title": "Nolan Barret",
     "description": "A Framer portfolio template for individuals who value restraint, clarity, and focus. Minimal framework with purposeful details — lets your work take center stage.",
@@ -55,7 +55,7 @@
     "price": "from $79"
   },
   {
-    "id": "prod-sensa",
+    "id": "tmp001",
     "type": "template",
     "title": "Sensa",
     "description": "A beautifully designed website template for online therapy services with a warm and welcoming identity. Customizable to fit your branding and showcase your unique services.",
@@ -66,7 +66,7 @@
     "price": "from $129"
   },
   {
-    "id": "prod-art-objects",
+    "id": "tmp003",
     "type": "template",
     "title": "Art & Objects",
     "description": "The ultimate vintage store template. Showcasing vintage and contemporary pieces that enrich the modern living space — timeless beauty and captivating design.",
@@ -77,7 +77,7 @@
     "price": "from $149"
   },
   {
-    "id": "prod-ora",
+    "id": "tmp004",
     "type": "template",
     "title": "Ora",
     "description": "A sleek and vibrant Framer template designed for contemporary agencies and innovative projects. Striking layout with smooth transitions and smart interactions.",
