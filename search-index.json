@@ -34,8 +34,8 @@
   },
   {
     "id": "cmp004",
-    "type": "Theme Toggle",
-    "title": "48e B2B growth engine: dissecting the components",
+    "type": "component",
+    "title": "Theme Toggle",
     "description": "",
     "tags": ["theme toggle", "component", "framer"],
     "url": "/products/theme-toggle",
