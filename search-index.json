@@ -2,7 +2,7 @@
   {
     "id": "cmp001",
     "type": "component",
-    "title": "The Complete Guide to Framer Templates for Developers: What to Know Before You Buy",
+    "title": "The Complete",
     "description": "",
     "tags": ["loader", "component", "framer"],
     "url": "/products/loader",
@@ -10,6 +10,7 @@
     "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "Free"
   },
+  // The Complete Guide to Framer Templates for Developers: What to Know Before You Buy
   {
     "id": "cmp002",
     "type": "component",
