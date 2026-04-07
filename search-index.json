@@ -1,7 +1,7 @@
 [
   {
     "id": "cmp001",
-    "type": "component",
+    "type": "Framer component",
     "title": "Adaptive Image From URL with Fallback",
     "description": "",
     "tags": ["loader", "component", "framer"],
@@ -12,7 +12,7 @@
   },
   {
     "id": "cmp002",
-    "type": "component",
+    "type": "Framer component",
     "title": "Pro Display",
     "description": "",
     "tags": ["pro display", "component", "framer"],
@@ -23,7 +23,7 @@
   },
   {
     "id": "cmp003",
-    "type": "component",
+    "type": "Framer component",
     "title": "Grid Loader",
     "description": "",
     "tags": ["grid loader", "component", "framer"],
@@ -34,7 +34,7 @@
   },
   {
     "id": "cmp004",
-    "type": "component",
+    "type": "Framer component",
     "title": "Theme Toggle",
     "description": "",
     "tags": ["theme toggle", "component", "framer"],
@@ -45,7 +45,7 @@
   },
   {
     "id": "tmp001",
-    "type": "template",
+    "type": "Framer template",
     "title": "Sensa",
     "description": "",
     "tags": ["sensa", "template", "framer"],
@@ -56,7 +56,7 @@
   },
   {
     "id": "tmp002",
-    "type": "template",
+    "type": "Framer template",
     "title": "Apex Films",
     "description": "",
     "tags": ["apex films", "template", "framer"],
@@ -67,7 +67,7 @@
   },
   {
     "id": "tmp003",
-    "type": "template",
+    "type": "Framer template",
     "title": "All Natural",
     "description": "",
     "tags": ["all natural", "template", "framer"],
@@ -78,7 +78,7 @@
   },
   {
     "id": "tmp004",
-    "type": "template",
+    "type": "Framer template",
     "title": "Ora",
     "description": "",
     "tags": ["ora", "template", "framer"],
