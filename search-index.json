@@ -6,7 +6,8 @@
     "description": "Powerful and customizable Loader Framer component. Customize colors, line width and transition to make it your own and elevate your no-code website.",
     "tags": ["loader", "animation", "component", "free", "framer"],
     "url": "/products/loader",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "Free"
   },
   {
@@ -16,7 +17,8 @@
     "description": "Present your image, video or iframe content in a stunning way. Adjust screen glow and choose between light and dark stand options to elevate your no-code website.",
     "tags": ["display", "mockup", "screen", "component", "framer", "video", "image"],
     "url": "/products/pro-display",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $129"
   },
   {
@@ -26,7 +28,8 @@
     "description": "Animated character grid with staggered looping effects. Create unique typographic loader animations or build dynamic visual patterns that elevate your no-code website.",
     "tags": ["grid", "loader", "animation", "typography", "component", "framer"],
     "url": "/products/grid-loader",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $149"
   },
   {
@@ -36,7 +39,8 @@
     "description": "Allow your users to switch between dark and light styles. Use the included utility component to show different layers depending on the active color scheme.",
     "tags": ["dark mode", "light mode", "toggle", "theme", "component", "framer"],
     "url": "/products/theme-toggle",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $79"
   },
   {
@@ -46,7 +50,8 @@
     "description": "A Framer portfolio template for individuals who value restraint, clarity, and focus. Minimal framework with purposeful details — lets your work take center stage.",
     "tags": ["portfolio", "minimal", "personal", "template", "framer"],
     "url": "/products/nolan-barret",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $79"
   },
   {
@@ -56,7 +61,8 @@
     "description": "A beautifully designed website template for online therapy services with a warm and welcoming identity. Customizable to fit your branding and showcase your unique services.",
     "tags": ["therapy", "wellness", "health", "template", "framer", "service"],
     "url": "/products/sensa",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $129"
   },
   {
@@ -66,7 +72,8 @@
     "description": "The ultimate vintage store template. Showcasing vintage and contemporary pieces that enrich the modern living space — timeless beauty and captivating design.",
     "tags": ["vintage", "store", "shop", "ecommerce", "template", "framer", "art"],
     "url": "/products/art-objects",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $149"
   },
   {
@@ -76,7 +83,8 @@
     "description": "A sleek and vibrant Framer template designed for contemporary agencies and innovative projects. Striking layout with smooth transitions and smart interactions.",
     "tags": ["agency", "studio", "portfolio", "template", "framer", "modern"],
     "url": "/products/ora",
-    "image": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/light-01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/dark-01.jpg",
     "price": "from $49"
   }
 ]
