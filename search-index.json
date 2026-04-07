@@ -1,8 +1,8 @@
 [
   {
     "id": "cmp001",
-    "type": "Framer component",
-    "title": "Adaptive Image From URL with Fallback",
+    "type": "component",
+    "title": "Loader",
     "description": "",
     "tags": ["loader", "component", "framer"],
     "url": "/products/loader",
@@ -12,7 +12,7 @@
   },
   {
     "id": "cmp002",
-    "type": "Framer component",
+    "type": "component",
     "title": "Pro Display",
     "description": "",
     "tags": ["pro display", "component", "framer"],
@@ -23,7 +23,7 @@
   },
   {
     "id": "cmp003",
-    "type": "Framer component",
+    "type": "component",
     "title": "Grid Loader",
     "description": "",
     "tags": ["grid loader", "component", "framer"],
@@ -34,7 +34,7 @@
   },
   {
     "id": "cmp004",
-    "type": "Framer component",
+    "type": "component",
     "title": "Theme Toggle",
     "description": "",
     "tags": ["theme toggle", "component", "framer"],
@@ -45,7 +45,7 @@
   },
   {
     "id": "tmp001",
-    "type": "Framer template",
+    "type": "template",
     "title": "Sensa",
     "description": "",
     "tags": ["sensa", "template", "framer"],
@@ -56,7 +56,7 @@
   },
   {
     "id": "tmp002",
-    "type": "Framer template",
+    "type": "template",
     "title": "Apex Films",
     "description": "",
     "tags": ["apex films", "template", "framer"],
@@ -67,18 +67,18 @@
   },
   {
     "id": "tmp003",
-    "type": "Framer template",
+    "type": "template",
     "title": "All Natural",
     "description": "",
     "tags": ["all natural", "template", "framer"],
     "url": "/products/all-natural",
     "imageLight": "https://cdn.studiowireframe.com/products/templates/all_natural/light_01.jpg",
     "imageDark": "https://cdn.studiowireframe.com/products/templates/all_natural/dark_01.jpg",
-    "price": "from $85"
+    "price": "from <s>$99</s> $85"
   },
   {
     "id": "tmp004",
-    "type": "Framer template",
+    "type": "template",
     "title": "Ora",
     "description": "",
     "tags": ["ora", "template", "framer"],
