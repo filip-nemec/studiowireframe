@@ -63,7 +63,7 @@
     "url": "/products/apex-films",
     "imageLight": "https://cdn.studiowireframe.com/products/templates/apex/light_01.jpg",
     "imageDark": "https://cdn.studiowireframe.com/products/templates/apex/dark_01.jpg",
-    "price": "from $109.65"
+    "price": "from <s>$129</s> $109.65"
   },
   {
     "id": "tmp003",
