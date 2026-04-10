@@ -45,8 +45,8 @@
     "title": "Sensa",
     "tags": ["sensa", "template", "framer", "sensa"],
     "url": "/products/sensa",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp001/04_03_light_01_v01.jpg",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp001/04_03_dark_01_v01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_light_01_v01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_dark_01_v01.jpg",
     "price": "from $79"
   },
   {
@@ -55,8 +55,8 @@
     "title": "Apex Films",
     "tags": ["apex films", "template", "framer", "apex-films"],
     "url": "/products/apex-films",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp002/04_03_light_01_v01.jpg",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp002/04_03_dark_01_v01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_light_01_v01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_dark_01_v01.jpg",
     "price": "from <s>$129</s> $109.65"
   },
   {
@@ -65,8 +65,8 @@
     "title": "All Natural",
     "tags": ["all natural", "template", "framer", "all-natural"],
     "url": "/products/all-natural",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp003/04_03_light_01_v01.jpg",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp003/04_03_dark_01_v01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_light_01_v01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_dark_01_v01.jpg",
     "price": "from <s>$99</s> $85"
   },
   {
@@ -75,8 +75,8 @@
     "title": "Ora",
     "tags": ["ora", "template", "framer", "ora"],
     "url": "/products/ora",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp004/04_03_light_01_v01.jpg",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp004/04_03_dark_01_v01.jpg",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_light_01_v01.jpg",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_dark_01_v01.jpg",
     "price": "from $49"
   }
 ]
