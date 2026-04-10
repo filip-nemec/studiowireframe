@@ -2,6 +2,7 @@
   {
     "id": "cmp001",
     "type": "component",
+    "typeLabel": "Framer component",
     "title": "Loader",
     "tags": ["loader", "component", "framer", "loader"],
     "url": "/products/loader",
@@ -12,6 +13,7 @@
   {
     "id": "cmp002",
     "type": "component",
+    "typeLabel": "Framer component",
     "title": "Pro Display",
     "tags": ["pro display", "component", "framer", "pro-display"],
     "url": "/products/pro-display",
@@ -22,6 +24,7 @@
   {
     "id": "cmp003",
     "type": "component",
+    "typeLabel": "Framer component",
     "title": "Grid Loader",
     "tags": ["grid loader", "component", "framer", "grid-loader"],
     "url": "/products/grid-loader",
@@ -32,6 +35,7 @@
   {
     "id": "cmp004",
     "type": "component",
+    "typeLabel": "Framer component",
     "title": "Theme Toggle",
     "tags": ["theme toggle", "component", "framer", "theme-toggle"],
     "url": "/products/theme-toggle",
@@ -42,41 +46,45 @@
   {
     "id": "tmp001",
     "type": "template",
+    "typeLabel": "Framer template",
     "title": "Sensa",
     "tags": ["sensa", "template", "framer", "sensa"],
     "url": "/products/sensa",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_light_01_v01_search",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_dark_01_v01_search",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_light_01_v01",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp001/tmp001_dark_01_v01",
     "price": "from $79"
   },
   {
     "id": "tmp002",
     "type": "template",
+    "typeLabel": "Framer template",
     "title": "Apex Films",
     "tags": ["apex films", "template", "framer", "apex-films"],
     "url": "/products/apex-films",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_light_01_v01_search",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_dark_01_v01_search",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_light_01_v01",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp002/tmp002_dark_01_v01",
     "price": "from <s>$129</s> $109.65"
   },
   {
     "id": "tmp003",
     "type": "template",
+    "typeLabel": "Framer template",
     "title": "All Natural",
     "tags": ["all natural", "template", "framer", "all-natural"],
     "url": "/products/all-natural",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_light_01_v01_search",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_dark_01_v01_search",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_light_01_v01",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp003/tmp003_dark_01_v01",
     "price": "from <s>$99</s> $85"
   },
   {
     "id": "tmp004",
     "type": "template",
+    "typeLabel": "Framer template",
     "title": "Ora",
     "tags": ["ora", "template", "framer", "ora"],
     "url": "/products/ora",
-    "imageLight": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_light_01_v01_search",
-    "imageDark": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_dark_01_v01_search",
+    "imageLight": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_light_01_v01",
+    "imageDark": "https://cdn.studiowireframe.com/templates/tmp004/tmp004_dark_01_v01",
     "price": "from $49"
   }
 ]
