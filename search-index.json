@@ -3,7 +3,7 @@
     "id": "cmp001",
     "type": "component",
     "typeLabel": "Framer component",
-    "isNew": false,
+    "isNew": true,
     "title": "Loader",
     "tags": ["loader", "loader", "component", "framer", "framer component"],
     "url": "/products/loader",
